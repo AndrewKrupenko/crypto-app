@@ -198,6 +198,10 @@ a:hover {
     font-weight: 800;
 }
 
+.coin-value-statistics, .other-stats-info {
+    width: 100%
+}
+
 .coin-value-statistics-heading p {
     font-size: 1rem;
     opacity: 0.9;
