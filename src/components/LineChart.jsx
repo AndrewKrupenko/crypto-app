@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row, Typography } from "antd";
-import faker from "faker";
 import {
   Chart as ChartJS,
   CategoryScale,
